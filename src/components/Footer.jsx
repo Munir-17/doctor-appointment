@@ -9,10 +9,9 @@ const Footer = () => {
         <div>
           <img className="mb-5 w-40" src={assets.logo} alt="" />
           <p className="w-full md:w2/3 text-gray-600 leading-6 ">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi nisi
-            sunt corrupti quam, incidunt et perspiciatis? Eius quisquam numquam
-            voluptatum laborum, ab perferendis nihil voluptatibus, quidem fuga
-            aliquam, non obcaecati.
+            At Qstructs Systems, our values of excellence, integrity, and
+            innovation guide everything we do, helping us build lasting
+            relationships and make a positive impact across industries.
           </p>
         </div>
         {/*Center */}
@@ -36,7 +35,9 @@ const Footer = () => {
       </div>
       <div>
         <hr />
-        <p className="py-5 text-sm text-center">Copyrights 2025@ munir - All Rights Reserved.</p>
+        <p className="py-5 text-sm text-center">
+          Copyrights 2025@ munir - All Rights Reserved.
+        </p>
       </div>
     </div>
   );

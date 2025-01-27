@@ -17,23 +17,21 @@ const About = () => {
         />
         <div className="flex flex-col justify-center gap-6 md:w-2/4 text-sm text-gray-600">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-            sunt distinctio beatae voluptatem, debitis qui voluptates autem
-            nihil mollitia ullam fuga tenetur modi rem cum blanditiis quae ea!
-            Consectetur, autem?{" "}
+            At Qstructs System, we are a dedicated team of technology
+            professionals committed to revolutionizing the healthcare experience
+            through innovative solutions. With a focus on developing robust
+            systems for managing doctor appointments, we strive to enhance
+            patient engagement and streamline healthcare processes.
           </p>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti
-            aut earum ducimus reiciendis ex asperiores, quisquam saepe
-            repudiandae dolorem, autem rerum quia cumque aspernatur facilis
-            eaque doloribus in, officia quasi!
+            Our mission is to empower healthcare providers and patients alike
+            with user-friendly, efficient, and reliable appointment management
+            systems. We believe that technology should simplify healthcare,
+            making it more accessible and efficient for everyone involved.
           </p>
           <b className="text-gray-800">Our Vision</b>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione
-            voluptatum sunt aliquam est exercitationem esse similique, odio
-            suscipit obcaecati dignissimos corrupti quas assumenda accusamus, at
-            praesentium molestias dolor culpa fuga?
+          To become the most trusted Tech company, simplifying the supply chain through intuitive and intelligent solutions
           </p>
         </div>
       </div>
